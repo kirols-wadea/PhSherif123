@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ph Sherif</string>
+    <string name="todo">TODO</string>
+    <string name="welcom">welcom</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="create_account">Create Account</string>
+</resources>
